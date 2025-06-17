@@ -1,9 +1,6 @@
-# main.py
-
 import sys
 from pkg.calculator import Calculator
 from pkg.render import render
-from functions.get_files_info import get_files_info
 
 
 def main():
@@ -25,3 +22,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
